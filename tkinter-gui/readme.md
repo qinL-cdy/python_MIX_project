@@ -1,0 +1,2 @@
+本程序使用tkinter作为GUI显示简单的输入框
+使用matplotlib显示输入的函数图像
